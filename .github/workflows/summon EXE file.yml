@@ -1,0 +1,2 @@
+#cmdcommand
+pyinstaller -F get-pip.py
