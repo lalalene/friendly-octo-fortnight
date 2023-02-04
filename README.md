@@ -18,3 +18,11 @@ Windows with exe or py files, Mac with py files
 然后我就写了这个代码
 
 Windows 运行exe或py文件,Mac运行py文件
+
+你以为——————这就完了吗？
+
+如果你在py文件同目录下的cmd输入
+python get-pip.py 要安装的模块名
+
+就会发现：不再是安装；pip，而是安装那个模块
+这是我写的一个小彩蛋
