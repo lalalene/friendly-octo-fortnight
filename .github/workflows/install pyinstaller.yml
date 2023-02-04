@@ -1,0 +1,2 @@
+#Language: CMD
+pip install pyinstaller
